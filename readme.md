@@ -29,8 +29,8 @@ var line = new Line({p1:10, p2:50, w:100, h:200})
 var line = Line({p1:10, p2:50, w:100, h:200})
 
 // all options are also accessible via getter/setter
-peak.d = 'top'
-peak.p1 = 100
+line.d = 'top'
+line.p1 = 100
 ```
 
 #### svg()
