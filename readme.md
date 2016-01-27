@@ -4,8 +4,10 @@
 
 ## Install
 
+Not hosted on npm registry because the name was <a href="https://www.npmjs.com/package/svg-line" target="_blank">already taken</a> :warning:
+
 ```bash
-npm i svg-line
+npm i jeromedecoster/svg-line
 ```
 
 ## API
